@@ -15,6 +15,8 @@ namespace Calculadora
     {
         decimal valor1 = 0, valor2 = 0;
         string operacao = "";
+        Contexto
+
         public FrmCalculadora()
         {
             InitializeComponent();
